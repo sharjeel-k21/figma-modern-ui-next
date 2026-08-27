@@ -14,7 +14,7 @@ const projects = [
       "AI-powered diagnostic platform processing 10M+ health records with 99.8% accuracy",
     image:
       "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&h=800&fit=crop",
-    color: "#00F0FF",
+    color: "#F5F2E4",
   },
   {
     id: 2,
@@ -24,7 +24,7 @@ const projects = [
       "Real-time trading platform handling $2B+ in daily transactions",
     image:
       "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=800&fit=crop",
-    color: "#CCFF00",
+    color: "#DE3737",
   },
   {
     id: 3,
@@ -33,7 +33,7 @@ const projects = [
     description: "Lightning-fast shopping experience with 300ms page loads",
     image:
       "https://images.unsplash.com/photo-1557821552-17105176677c?w=1200&h=800&fit=crop",
-    color: "#00F0FF",
+    color: "#F5F2E4",
   },
 ];
 
@@ -73,7 +73,7 @@ export function ProjectShowcase() {
             <div className="relative rounded-2xl bg-gradient-to-b from-gray-800 to-gray-900 p-3 shadow-2xl">
               <div className="absolute left-1/2 top-0 z-10 h-6 w-40 -translate-x-1/2 rounded-b-2xl bg-black" />
 
-              <div className="relative aspect-[16/10] overflow-hidden rounded-lg bg-black">
+              <div className="relative aspect-[2/1] overflow-hidden rounded-lg bg-black">
                 <div className="absolute inset-0">
                   <div
                     className="absolute inset-0 opacity-20 blur-3xl"

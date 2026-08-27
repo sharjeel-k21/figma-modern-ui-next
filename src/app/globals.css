@@ -4,13 +4,13 @@
 /* Design tokens (align with Figma theme.css; Tailwind colors extended in tailwind.config.ts) */
 :root {
   --font-size: 16px;
-  --background: #0f172a;
-  --foreground: #f8fafc;
-  --card: #1e293b;
-  --primary: #00f0ff;
-  --secondary: #ccff00;
-  --muted: #334155;
-  --muted-foreground: #94a3b8;
+  --background: #0d515c;
+  --foreground: #f5f2e4;
+  --card: #0d515c;
+  --primary: #f5f2e4;
+  --secondary: #de3737;
+  --muted: #0d515c;
+  --muted-foreground: #f5f2e4;
   --border-glass: rgba(255, 255, 255, 0.1);
   --radius: 0.625rem;
   --font-weight-medium: 500;
@@ -75,7 +75,7 @@
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(180deg, #00b8c9, #a3cc00);
+  background: linear-gradient(180deg, #f5f2e4, #de3737);
 }
 
 ::selection {

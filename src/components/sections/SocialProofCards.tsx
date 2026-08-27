@@ -8,25 +8,25 @@ const stats = [
     icon: TrendingUp,
     number: "88%",
     label: "of users leave after a bad UI",
-    color: "#00F0FF",
+    color: "#F5F2E4",
   },
   {
     icon: Zap,
     number: "3s",
     label: "Max load time before bounce",
-    color: "#CCFF00",
+    color: "#DE3737",
   },
   {
     icon: Users,
     number: "200%",
     label: "Average ROI increase for clients",
-    color: "#00F0FF",
+    color: "#F5F2E4",
   },
   {
     icon: Award,
     number: "99.9%",
     label: "Uptime guaranteed",
-    color: "#CCFF00",
+    color: "#DE3737",
   },
 ];
 

@@ -13,8 +13,8 @@ export function NavBar() {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-12">
             <div className="text-2xl font-black tracking-tight">
-              <span className="text-white">APEX</span>
-              <span className="text-cyber-cyan">DEV</span>
+              <span className="text-white">Flintrr</span>
+              
             </div>
 
             <div className="hidden items-center gap-8 md:flex">
@@ -45,14 +45,14 @@ export function NavBar() {
             </div>
           </div>
 
-          <motion.button
-            type="button"
+          <motion.a
+            href="#contact"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             className="rounded-xl bg-gradient-to-r from-cyber-cyan to-acid-lime px-6 py-3 text-sm font-bold text-deep-slate shadow-lg shadow-cyber-cyan/30 transition-shadow hover:shadow-cyber-cyan/50"
           >
             Book an Audit
-          </motion.button>
+          </motion.a>
         </div>
       </div>
     </motion.nav>

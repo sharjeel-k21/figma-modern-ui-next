@@ -9,34 +9,34 @@ const steps = [
     title: "Audit",
     description:
       "Deep dive into your current tech stack, pain points, and opportunities",
-    color: "#00F0FF",
+    color: "#F5F2E4",
   },
   {
     icon: Lightbulb,
     title: "Strategy",
     description:
       "Craft a roadmap aligned with your business goals and user needs",
-    color: "#CCFF00",
+    color: "#DE3737",
   },
   {
     icon: Code,
     title: "Development",
     description:
       "Build with cutting-edge tech, clean code, and scalable architecture",
-    color: "#00F0FF",
+    color: "#F5F2E4",
   },
   {
     icon: TestTube,
     title: "Testing",
     description: "Rigorous QA across devices, browsers, and edge cases",
-    color: "#CCFF00",
+    color: "#DE3737",
   },
   {
     icon: Rocket,
     title: "Deployment",
     description:
       "Seamless launch with monitoring, optimization, and ongoing support",
-    color: "#00F0FF",
+    color: "#F5F2E4",
   },
 ];
 

@@ -69,8 +69,8 @@ export function HeroCarousel() {
               x2="100%"
               y2="100%"
             >
-              <stop offset="0%" stopColor="#00F0FF" />
-              <stop offset="100%" stopColor="#CCFF00" />
+              <stop offset="0%" stopColor="#F5F2E4" />
+              <stop offset="100%" stopColor="#DE3737" />
             </linearGradient>
           </defs>
           <g

@@ -12,7 +12,7 @@ const services = [
     title: "Custom Web Apps",
     description:
       "Bespoke applications tailored to your unique business needs. From concept to deployment.",
-    color: "#00F0FF",
+    color: "#F5F2E4",
     gradient: "from-cyber-cyan/20 to-transparent",
   },
   {
@@ -20,7 +20,7 @@ const services = [
     title: "Legacy Code Refactoring",
     description:
       "Modernize outdated systems. Breathe new life into aging codebases with clean architecture.",
-    color: "#CCFF00",
+    color: "#DE3737",
     gradient: "from-acid-lime/20 to-transparent",
   },
   {
@@ -28,7 +28,7 @@ const services = [
     title: "Performance Optimization",
     description:
       "Lightning-fast load times. We shave milliseconds off every interaction for peak UX.",
-    color: "#00F0FF",
+    color: "#F5F2E4",
     gradient: "from-cyber-cyan/20 to-transparent",
   },
   {
@@ -36,7 +36,7 @@ const services = [
     title: "24/7 Maintenance",
     description:
       "Round-the-clock monitoring and support. Your site stays secure, fast, and bug-free.",
-    color: "#CCFF00",
+    color: "#DE3737",
     gradient: "from-acid-lime/20 to-transparent",
   },
 ];

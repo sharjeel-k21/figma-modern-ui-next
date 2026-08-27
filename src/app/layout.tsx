@@ -10,7 +10,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "ApexDev — Premium Web Experiences",
+  title: "Flintrr",
   description:
     "Speed, precision, and luxury in every line of code. Custom web apps, performance, and maintenance.",
 };
